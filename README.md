@@ -1,4 +1,4 @@
-# Cuadrado-M-gico-De-Durero-La-Soluci-n-Final
+# Cuadrado-Magico-De-Durero-La-Solucion-Final
 Podemos definir el problema de Durero como aquel que pretende encontrar todos los cuadrados mágicos de Durero que existan.
 
 Hace unos días tuve la ocasión de de asistir a una conferencia en Madrid impartida por Josep Guijarro donde hablaba del conocido clásico del misterio de las serendipias o casualidades imposibles.
